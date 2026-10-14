@@ -75,6 +75,7 @@ Platforms and tools for creating automated WhatsApp experiences.
 - [Landbot](https://landbot.io/) — No-code chatbot builder.
 - [Flow XO](https://flowxo.com/) — Chatbot and workflow automation platform.
 - [Zapier](https://zapier.com/) — Workflow automation platform supporting WhatsApp integrations.
+- [DOS AI](https://dosai.pro/) — No-code AI assistant for WhatsApp, Instagram and Telegram with a built-in CRM: answers customers, books appointments and issues invoices in the chat.
 
 ## CRM & Customer Support Integrations
 
